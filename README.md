@@ -71,8 +71,8 @@ Follow these instructions to set up and run the API server on your local machine
 
 1.  **Clone the repository:**
   ```
-  git clone https://github.com/your-username/hopescan-api.git
-  cd hopescan-api
+  git clone https://github.com/aryanshelte369/Hopescan_Detecing_Breast_cancer.git
+  cd Hopescan_Detecing_Breast_cancer
   ```
 
 2.  **Create and activate a Python virtual environment:**
