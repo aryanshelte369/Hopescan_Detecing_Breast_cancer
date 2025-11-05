@@ -14,6 +14,7 @@ The core of the project is a Convolutional Neural Network (CNN) built with PyTor
 https://www.kaggle.com/datasets/awsaf49/cbis-ddsm-breast-cancer-image-dataset
 
 ## Project Structure
+```
 HOPESCAN_PROJECT/
 ├── app.py
 ├── data/
@@ -30,7 +31,7 @@ HOPESCAN_PROJECT/
 ├── requirements.txt
 └── venv/
     ├── ... (Virtual environment files)
-
+```
 ## Technology Stack
 
 -   **Machine Learning**: PyTorch, Torchvision
