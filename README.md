@@ -10,6 +10,9 @@ The core of the project is a Convolutional Neural Network (CNN) built with PyTor
 -   **Explainable AI (XAI)**: Generates a Grad-CAM heatmap overlay on the original image for malignant predictions, providing insight into the model's focus.
 -   **RESTful API**: The model is served via a Flask API, allowing any application to request predictions via a simple HTTP POST request.
 
+## Dataset
+https://www.kaggle.com/datasets/awsaf49/cbis-ddsm-breast-cancer-image-dataset
+
 ## Project Structure
 HOPESCAN_PROJECT/
 ├── app.py
