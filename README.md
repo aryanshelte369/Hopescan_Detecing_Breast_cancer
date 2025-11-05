@@ -1,4 +1,4 @@
-# HopeScan: AI-Powered Mammogram Classification API
+# HopeScan: AI-Powered Mammogram Classification Model
 
 HopeScan is a deep learning-based prediction engine designed to classify mammogram images as either 'Benign' or 'Malignant'.
 
